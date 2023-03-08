@@ -13,7 +13,7 @@
   }],
   "require": {
     "php": ">=5.3.0",
-    "sauce/sausage": ">=0.5.0"
+    "sauce/sausage": "dev-php8"
   },
   "autoload": {
     "psr-0": {"Sauce": "src/"}
